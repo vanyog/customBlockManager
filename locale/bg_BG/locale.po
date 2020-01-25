@@ -18,7 +18,7 @@ msgid "plugins.generic.customBlockManager.manage"
 msgstr "Управляване на потребителски блокове"
 
 msgid "plugins.generic.customBlockManager.description"
-msgstr "Тази добавка Ви позволява да управлявате (добавяте, редактирате и изтриване) на потребителски блокове за страничната лента."
+msgstr "Тази добавка Ви позволява да управлявате (добавяте, редактирате и изтриване) потребителски блокове за страничната лента."
 
 msgid "plugins.generic.customBlockManager.customBlocks"
 msgstr "Потребителски блокове"
